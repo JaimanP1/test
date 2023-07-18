@@ -18,4 +18,4 @@ finally can push changes to remote repository hub
 
 ## questions
 
-why is git not tracking these changes
+none so far everything working well
